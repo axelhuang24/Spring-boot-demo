@@ -1,4 +1,4 @@
 Edit on dev branch
 Test
-<<<<<<< HEAD
+"fix bug 101"
 Create a new branch is simple and fast
