@@ -1,2 +1,3 @@
 Test
-Create a new branch is simple & fast
+<<<<<<< HEAD
+Create a new branch is simple and fast
