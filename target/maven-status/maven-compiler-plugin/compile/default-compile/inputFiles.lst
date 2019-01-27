@@ -1,0 +1,13 @@
+/Users/liaojiaxin/IdeaProjects/demo/girl/src/main/java/com/huangkai/girl/properties/GirlProperties.java
+/Users/liaojiaxin/IdeaProjects/demo/girl/src/main/java/com/huangkai/girl/controller/HelloController.java
+/Users/liaojiaxin/IdeaProjects/demo/girl/src/main/java/com/huangkai/girl/domain/Result.java
+/Users/liaojiaxin/IdeaProjects/demo/girl/src/main/java/com/huangkai/girl/exception/GirlException.java
+/Users/liaojiaxin/IdeaProjects/demo/girl/src/main/java/com/huangkai/girl/service/GirlService.java
+/Users/liaojiaxin/IdeaProjects/demo/girl/src/main/java/com/huangkai/girl/repository/GirlRepository.java
+/Users/liaojiaxin/IdeaProjects/demo/girl/src/main/java/com/huangkai/girl/enums/ResultEnum.java
+/Users/liaojiaxin/IdeaProjects/demo/girl/src/main/java/com/huangkai/girl/utils/ResultUtil.java
+/Users/liaojiaxin/IdeaProjects/demo/girl/src/main/java/com/huangkai/girl/GirlApplication.java
+/Users/liaojiaxin/IdeaProjects/demo/girl/src/main/java/com/huangkai/girl/controller/GirlController.java
+/Users/liaojiaxin/IdeaProjects/demo/girl/src/main/java/com/huangkai/girl/domain/Girl.java
+/Users/liaojiaxin/IdeaProjects/demo/girl/src/main/java/com/huangkai/girl/handle/ExceptionHandle.java
+/Users/liaojiaxin/IdeaProjects/demo/girl/src/main/java/com/huangkai/girl/aspect/HttpAspect.java
